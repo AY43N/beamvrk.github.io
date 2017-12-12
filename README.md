@@ -1,8 +1,6 @@
 ## TechStart Portfolio
 
-360 Image
-
-(Enter script for 360 image)
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="//360.vizor.io/embed/v/6qnqy" ></script> 
 
 ***
 
